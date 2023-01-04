@@ -1,0 +1,12 @@
+[
+    {
+        "status": "Testing",
+        "blacklist": "Xeon",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "Xon",
+        "blaid": 2
+    }
+ ]
