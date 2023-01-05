@@ -1,7 +1,7 @@
 [
     {
         "status": "Testing",
-        "blacklist": "Xeon",
+        "blacklist": "*COVID DB Cleanup",
         "blaid": 1
     },
     {
