@@ -1,81 +1,290 @@
-    [{
+[
+    {
         "status": "Testing",
-        "blacklist": "*COVID DB Cleanup",
-        "blaid": 1
-    },
-        {
-        "status": "Testing",
-        "blacklist": "*Fall 2019",
-        "blaid": 1
-    },
-        {
-        "status": "Testing",
-        "blacklist": "*Fall 2021",
-        "blaid": 1
-    },
-        {
-        "status": "Testing",
-        "blacklist": "*Fall2022",
-        "blaid": 1
-    },
-        {
-        "status": "Testing",
-        "blacklist": "*Spring 2021",
-        "blaid": 1
-    },
-        {
-        "status": "Testing",
-        "blacklist": "*Spring2020",
-        "blaid": 1
-    },
-            {
-        "status": "Testing",
-        "blacklist": "*Spring2022",
-        "blaid": 1
-    },
-        {
-        "status": "Testing",
-        "blacklist": "*Summer2022",
-        "blaid": 1
-    },
-            {
-        "status": "Testing",
-        "blacklist": "*Winter 2018",
-        "blaid": 1
-    },
-            {
-        "status": "Testing",
-        "blacklist": "*Winter2022",
-        "blaid": 1
-    },
-                {
-        "status": "Testing",
-        "blacklist": "*Fall 2018",
-        "blaid": 1
-    },
-                {
-        "status": "Testing",
-        "blacklist": "*Store",
-        "blaid": 1
-    },
-                {
-        "status": "Testing",
-        "blacklist": "*WINTER 2017",
+        "blacklist": "CTP-3010-001",
+        "type": "Computer , ",
         "blaid": 1
     },
     {
         "status": "Testing",
-        "blacklist": "	Testing Shelf_S4 ",
-        "blaid": 2
+        "blacklist": "CTP-755",
+        "type": "Computer , ",
+        "blaid": 1
     },
-        {
+    {
         "status": "Testing",
-        "blacklist": " DESCRIPTION: DELL LATITUDE E6410 	Testing Shelf_V",
-        "blaid": 2
+        "blacklist": "CTP-755-01",
+        "type": "Computer , ",
+        "blaid": 1
     },
-        {
+    {
         "status": "Testing",
-        "blacklist": "Testing Shelf_S3",
-        "blaid": 3
-    }
- ]
+        "blacklist": "CTP-755-02",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-7550SSF",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-760",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-760-01",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-780-01",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-780-02",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-790-01",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-790-02",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-960",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-960-01",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-980-01",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-980-02",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-980-03",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-980-04",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-990",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-990-01",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-990-02",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-990-03",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-990_01",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-990_02",
+        "type": "Computer , ",
+        "blaid": 1
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-A",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-AIO-01",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-B",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-DEP1",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-DON1",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-DON2",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-DON2A",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-Harrisburg-01",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-MISC_09",
+        "type": "Computer , ",
+        "blaid": 6
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-MISC_10",
+        "type": "Computer , ",
+        "blaid": 6
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-misc_11",
+        "type": "Computer , ",
+        "blaid": 6
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-MPro1",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-MPro2",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-MPro3",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-PER1",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-PER2",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-PER3",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-PER3A",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-PER4",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-PER5",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-T3500",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-TUCC_01",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-TUCC_02",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-percision",
+        "type": "Computer , ",
+        "blaid": 6
+    },
+    {
+        "status": "Testing",
+        "blacklist": "CTP-755USFF",
+        "type": "Computer , ",
+        "blaid": 4
+    },
+ ];
